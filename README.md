@@ -8,7 +8,8 @@ To run Sumzz locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/sumzz.git`
 2. Install the dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Create your own API Key from RapidAPI and store it in the .env file
+4. Start the development server: `npm start`
 
 ## Technologies Used
 
