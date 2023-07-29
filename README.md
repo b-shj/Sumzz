@@ -6,7 +6,7 @@ Sumzz is a web application that leverages Rapid API's AI Summarizer API to provi
 
 To run Sumzz locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/sumzz.git`
+1. Clone the repository: `git clone https://github.com/b-shj/sumzz.git`
 2. Install the dependencies: `npm install`
 3. Create your own API Key from RapidAPI and store it in the .env file
 4. Start the development server: `npm start`
@@ -16,3 +16,8 @@ To run Sumzz locally, follow these steps:
 - React: A JavaScript library for building user interfaces.
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 - Redux: A predictable state container for JavaScript apps.
+
+
+## Live App
+* __The Live App is here__
+* https://sumzzaishj.netlify.app/
