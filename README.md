@@ -19,5 +19,4 @@ To run Sumzz locally, follow these steps:
 
 
 ## Live App
-* __The Live App is here__
 * https://sumzzaishj.netlify.app/
