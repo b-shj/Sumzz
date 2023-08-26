@@ -2,6 +2,11 @@
 
 Sumzz is a web application that leverages Rapid API's AI Summarizer API to provide users with summarized versions of articles using their URLs. This project is built using React, Tailwind CSS, and Redux.
 
+
+
+![Screenshot (38)](https://github.com/b-shj/Sumzz/assets/81804438/13bc699b-cf47-4dee-b13f-81cf622faef8)
+
+
 ## Getting Started
 
 To run Sumzz locally, follow these steps:
